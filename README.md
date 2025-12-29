@@ -1,10 +1,3 @@
-Com certeza. Aqui está o ficheiro `README.md` completo e profissional, adaptado para o nosso projeto e escrito em **Português de Portugal** (conforme solicitado), pronto para copiar e colar no seu repositório GitHub.
-
-Este README destaca a parte de **negócio e ROI**, que é o grande diferencial do seu portfólio.
-
----
-
-### Copie o código abaixo:
 
 ```markdown
 # 🛡️ Deteção de Fraude em Cartões de Crédito
