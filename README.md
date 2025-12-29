@@ -60,7 +60,7 @@ Utilizámos **SHAP Values** para explicar as decisões do modelo e garantir tran
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/SEU-UTILIZADOR/deteccao-fraude-cartao-credito.git](https://github.com/SEU-UTILIZADOR/deteccao-fraude-cartao-credito.git)
+git clone [https://github.com/Gabrinetio/deteccao-fraude-cartao-credito.git](https://github.com/Gabrinetio/deteccao-fraude-cartao-credito.git)
 
 ```
 
