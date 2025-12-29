@@ -1,5 +1,3 @@
-
-```markdown
 # 🛡️ Deteção de Fraude em Cartões de Crédito
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
@@ -57,7 +55,6 @@ Utilizámos **SHAP Values** para explicar as decisões do modelo e garantir tran
 ├── requirements.txt       # Lista de dependências
 └── README.md              # Documentação do projeto
 
-```
 
 ## 🚀 Como Executar
 
